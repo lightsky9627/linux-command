@@ -3,19 +3,19 @@
   <br>
   <br>
 
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe，60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。</a>
+  <br><br>
+
   <a href="https://github.com/Doloffer-g/guide">
     <img alt="doloffer sponsorship" width="400" src="./template/img/doloffer.jpg">
   </a>
   <br>
   <a href="https://github.com/Doloffer-g/guide"><b>DolOffer - 一站式数字订阅充值平台</b></a><br>
   <a href="https://doloffer.com">主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧</a><br><br>
-
-  <a href="https://pawakalabs.com/products/fakey/">
-    <img alt="Fakey sponsorship" width="400" src="./template/img/fakey.png">
-  </a>
-  <br>
-  <a href="https://pawakalabs.com/products/fakey/"><b>Fakey - Manga Translator</b></a><br>
-  <a href="https://pawakalabs.com/products/fakey/">Available for Android, iOS and browser extension</a><br><br>
 
   <br><br>
 </div>
@@ -98,6 +98,8 @@
 
 **推荐使用的镜像 web 版本**
 
+[**`linux.citie.dpdns.org`**](https://linux.citie.dpdns.org/)
+[**`linux.zenroly.com`**](https://linux.zenroly.com)
 [**`itool123.cn`**](https://linux.itool123.cn)
 [**`235978.xyz`**](https://linux-command.235978.xyz)
 [**`hycer.cn`**](https://linux.hycer.cn)
@@ -556,7 +558,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/hanwei1980" title="hanwei"><img src="https://avatars.githubusercontent.com/u/1889245?v=4" width="42;" alt="hanwei"/></a>
 <a href="https://github.com/gcluffy" title="gcluffy"><img src="https://avatars.githubusercontent.com/u/39456622?v=4" width="42;" alt="gcluffy"/></a>
 <a href="https://github.com/hotdogc1017" title="hotdogc1017"><img src="https://avatars.githubusercontent.com/u/126151508?v=4" width="42;" alt="hotdogc1017"/></a>
-<a href="https://github.com/huangyoo" title="Mr.BigBelly"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="Mr.BigBelly"/></a>
+<a href="https://github.com/huangyoo" title="三士"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="三士"/></a>
 <a href="https://github.com/lxp731" title="七朔"><img src="https://avatars.githubusercontent.com/u/95358476?v=4" width="42;" alt="七朔"/></a>
 <a href="https://github.com/gclm" title="孤城落寞"><img src="https://avatars.githubusercontent.com/u/27618687?v=4" width="42;" alt="孤城落寞"/></a>
 <a href="https://github.com/kindevil" title="尘埃"><img src="https://avatars.githubusercontent.com/u/846488?v=4" width="42;" alt="尘埃"/></a>
@@ -642,7 +644,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/c2ch" title="c2ch"><img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="c2ch"/></a>
 <a href="https://github.com/chaofanx" title="chaofan"><img src="https://avatars.githubusercontent.com/u/60053994?v=4" width="42;" alt="chaofan"/></a>
 <a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
-<a href="https://github.com/pplmx" title="Mystic"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystic"/></a>
+<a href="https://github.com/pplmx" title="Mystvio"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystvio"/></a>
 <a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a>
 <a href="https://github.com/rayyee" title="Ray Yee"><img src="https://avatars.githubusercontent.com/u/685149?v=4" width="42;" alt="Ray Yee"/></a>
 <a href="https://github.com/wurining" title="Rining Wu"><img src="https://avatars.githubusercontent.com/u/26198634?v=4" width="42;" alt="Rining Wu"/></a>
